@@ -11,7 +11,7 @@
 
 ## ⚡ Try it out!
 
-[unicode-formatter.demolab.com](https://github.com/Rahul1998sys/Uni-Code-Formatter)
+[unicode-formatter](https://github.com/Rahul1998sys/Uni-Code-Formatter)
 
 ## ℹ️ How to use
 
